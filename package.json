@@ -1,0 +1,22 @@
+{
+  "name": "coder-coder-dark",
+  "displayName": "Coder Coder Dark",
+  "description": "Coder Coder theme!",
+  "publisher": "TheThemeColor",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Coder Coder Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Coder Coder Dark-color-theme.json"
+      }
+    ]
+  }
+}
